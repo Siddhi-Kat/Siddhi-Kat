@@ -1,17 +1,20 @@
 👋 Hi, I'm Siddhi!
 
-Aspiring Data Scientist  Visual Educator  Self-Learner on a Mission
+Aspiring Data Scientist  Self-Learner on a Mission
 
-I'm currently exploring the world of data science through hands-on projects, playful visuals, and storytelling. My goal is to make machine learning not just powerful—but understandable and joyful.
+I'm currently exploring the world of Data Science through hands-on projects and self-learning—romanticizing my journey of learning to code and making machine learning not just powerful, but joyful.
 
  What I'm Learning
 - 📊 Data Science Foundations: Python, statistics, pandas, NumPy
 - 🤖 Machine Learning: Scikit-learn, BERT, CNNs, LSTMs
-- 🧠 NLP Projects: Fake news detection
-  
+
+Check out the projects I’ve built while exploring Data Science and learning to code.
+https://github.com/Siddhi-Kat/Skill-Builder-Projects
+
  Let's Connect
-- 💬 I love collaborating on beginner-friendly ML projects
-- 🧵 Follow my journey as I turn data into stories
+- I love meeting fellow learners and exploring projects together
+  (mailto:thecdway@gmail.com)  
+
 
 🌟 Fun Fact
 
