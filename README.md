@@ -13,6 +13,10 @@ I'm currently exploring the world of data science through hands-on projects, pla
 - 💬 I love collaborating on beginner-friendly ML projects
 - 🧵 Follow my journey as I turn data into stories
 
+🌟 Fun Fact
+
+I believe **“Learning by Building”** is the best way to master tech 🚀
+
 
 <!--
 **Siddhi-Kat/Siddhi-Kat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
