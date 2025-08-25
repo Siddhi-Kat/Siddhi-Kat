@@ -11,7 +11,7 @@ I'm currently exploring the world of data science through hands-on projects, pla
   
  Let's Connect
 - 💬 I love collaborating on beginner-friendly ML projects
-- 🧵 Follow my journey as I turn data into storie
+- 🧵 Follow my journey as I turn data into stories
 
 
 <!--
