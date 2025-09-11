@@ -4,9 +4,12 @@ Aspiring Data Scientist  Self-Learner on a Mission
 
 I'm currently exploring the world of Data Science through hands-on projects and self-learning—romanticizing my journey of learning to code and making machine learning not just powerful, but joyful.
 
- What I'm Learning
+ What I'm Currently Learning
 - 📊 Data Science Foundations: Python, statistics, pandas, NumPy
-- 🤖 Machine Learning: Scikit-learn, BERT, CNNs, LSTMs
+- 📂 Data Analytics Tools: SQL, Excel, Power BI
+
+What my Next Goals are :
+- Machine Learning with Scikit-learn & NLP
 
 Check out the projects I’ve built while exploring Data Science and learning to code.
 https://github.com/Siddhi-Kat/Skill-Builder-Projects
