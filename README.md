@@ -1,40 +1,34 @@
-👋 Hi, I'm Siddhi!
+# Hi there! 👋 I'm Siddhi
+## 🚀 About Me
 
-Aspiring Data Scientist  Self-Learner on a Mission
+- 👧 My name is Siddhi Kataria
+- 📊 Passionate about Data, Business, Mathematics, and Technology
+- 🎓 Continuously learning through online courses and hands-on projects
+- 🏀 Fun fact: I enjoy playing basketball and reading books
 
-I'm currently exploring the world of Data Science through hands-on projects and self-learning—romanticizing my journey of learning to code and making machine learning not just powerful, but joyful.
+# Data Portfolio
 
- What I'm Currently Learning
-- 📊 Data Science Foundations: Python, statistics, pandas, NumPy
-- 📂 Data Analytics Tools: SQL, Excel, Power BI
-
-What my Next Goals are :
-- Machine Learning with Scikit-learn & NLP
-
-Check out the projects I’ve built while exploring Data Science and learning to code.
-https://github.com/Siddhi-Kat/Skill-Builder-Projects
-
- Let's Connect
-- I love meeting fellow learners and exploring projects together
-  (mailto:thecdway@gmail.com)  
+A collection of hands-on data analytics projects demonstrating my skills in **Python, SQL, Power BI, Excel, and Data Visualization**.
 
 
-🌟 Fun Fact
+## Python Programming
 
-I believe **“Learning by Building”** is the best way to master tech 🚀
+- **[Hangman Game](https://github.com/Siddhi-Kat/Skill-Builder-Projects/tree/main/Hangman%20Game):** Built a classic word guessing game using Python.
 
 
-<!--
-**Siddhi-Kat/Siddhi-Kat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analysis and Visualization
 
-Here are some ideas to get you started:
+- **[Quick Byte Express](https://github.com/Siddhi-Kat/Skill-Builder-Projects/tree/main/quickbite-crisis-analysis):** Analyzed restaurant operations to identify the causes of declining revenue and customer satisfaction using **Python** and **Matplotlib**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Ecommerce Business Performance Analysis](https://github.com/Siddhi-Kat/Skill-Builder-Projects/tree/main/Ecommerece%20Analytics):** Evaluated website performance, customer journey, and sales trends using **SQL** and built an interactive **Power BI** dashboard to recommend business improvements.
+
+
+## SQL
+
+- **[Netflix Content Analysis](https://github.com/Siddhi-Kat/Skill-Builder-Projects/tree/main/Netflix-SQL-Analysis):** Solved business case studies using SQL to analyze content distribution, genres, ratings, release trends, and country-wise content.
+
+
+## Dashboards
+
+- **[Netflix Dashboard](https://github.com/Siddhi-Kat/Skill-Builder-Projects/blob/main/Netflix-Dashboard/Netflix%20Dashboard.pdf):** Designed an interactive Power BI dashboard to visualize Netflix content trends and key performance insights.
+
