@@ -32,3 +32,6 @@ A collection of hands-on data analytics projects demonstrating my skills in **Py
 
 - **[Netflix Dashboard](https://github.com/Siddhi-Kat/Skill-Builder-Projects/blob/main/Netflix-Dashboard/Netflix%20Dashboard.pdf):** Designed an interactive Power BI dashboard to visualize Netflix content trends and key performance insights.
 
+## Agentic AI
+- **[Procurement Agent](https://github.com/mridula-narang75/agentic_ai_solution_procurement) : ** Built an AI-powered, multi-agent procurement automation system that automates the full procurement lifecycle — from sourcing suppliers, to collecting quotes, to negotiating and awarding a contract — with minimal human input.
+
