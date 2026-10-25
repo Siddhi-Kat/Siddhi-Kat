@@ -39,7 +39,7 @@
 - **[Procurement Agent (Multi-Agent System)](https://github.com/mridula-narang75/agentic_ai_solution_procurement):** Conceptualized and built an autonomous AI solution that streamlines the B2B procurement lifecycle—automating supplier sourcing, quote collection, and contract negotiations to minimize friction and human latency.
 
 ### 📈 Business Performance & Product Operations
-- **[Quick Byte Express — Revenue & Operational Turnaround](https://github.com/Siddhi-Kat/Skill-Builder-Projects/tree/main/quickbite-crisis-analysis):** Diagnosed key operational bottlenecks causing revenue decline and negative customer sentiment using **Python** and visual analytics to prioritize actionable operational improvements.
+- **[Quick Bite Express — Revenue & Operational Turnaround](https://github.com/Siddhi-Kat/Skill-Builder-Projects/tree/main/quickbite-crisis-analysis):** Diagnosed key operational bottlenecks causing revenue decline and negative customer sentiment using **Python** and visual analytics to prioritize actionable operational improvements.
 - **[Ecommerce Conversion & Funnel Analysis](https://github.com/Siddhi-Kat/Skill-Builder-Projects/tree/main/Ecommerece%20Analytics):** Conducted drop-off and funnel analysis across user journeys using **SQL**. Built an executive **Power BI** dashboard delivering insights on user behavior, checkout retention, and product line profitability.
 
 ### 🗄️ Content Strategy & Product Analytics
